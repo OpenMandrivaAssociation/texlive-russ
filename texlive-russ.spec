@@ -51,3 +51,11 @@ their names may be defined.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Jan 31 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120125-1
++ Revision: 770261
+- texlive-russ
+- texlive-russ
+
