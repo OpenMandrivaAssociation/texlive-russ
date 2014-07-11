@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-russ
 Version:	20120125
-Release:	6
+Release:	7
 Summary:	LaTeX in Russian, without babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/russ
