@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-russ
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	LaTeX in Russian, without babel
 Group:		Publishing
