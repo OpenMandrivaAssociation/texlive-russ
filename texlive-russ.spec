@@ -1,6 +1,6 @@
 Name:		texlive-russ
 Version:	25209
-Release:	1
+Release:	2
 Summary:	LaTeX in Russian, without babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/russ
