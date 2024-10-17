@@ -3,7 +3,7 @@ Version:	25209
 Release:	2
 Summary:	LaTeX in Russian, without babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/russ
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/russ
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/russ.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/russ.doc.r%{version}.tar.xz
